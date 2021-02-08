@@ -152,6 +152,6 @@ function Pomodoro() {
       </div>
     </div>
   );
-}
+  }
 
 export default Pomodoro;
